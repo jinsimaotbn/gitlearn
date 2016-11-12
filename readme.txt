@@ -4,4 +4,4 @@ git is made from Linux
 git is a free software distributed under the GPL¡£
 git has a mutable index called stage
 git tracks changes.
-sunmeng
+creating a new branch is quick & simple
